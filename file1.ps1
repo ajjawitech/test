@@ -1,0 +1,1 @@
+ps -Name pwsh
